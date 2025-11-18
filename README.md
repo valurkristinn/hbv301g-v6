@@ -23,11 +23,15 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 8. Ef það kemur samþykki frá öðrum þá sameinar **höfundur** greinina við main (merge), annars uppfærir og bíður eftir samþykki aftur
 
 ## Hópur
-Fyllið út nöfn, hlutverk og hvaða kröfur hver endurskrifar og rýnir     
-Setjið gjarnan upp sem töflu
----
+Egill Hrafn Ólafsson
+Valur Kristinn Starkaðarson
 
+Egill gerði kröfur 13,16,20 og 21
+Valur gerði kröfur 14,15,17 og 18
+
+Egill gerði rýni á kröfur 14,15,17 og 18
+Valur gerði rýni á kröfur 13,16,20 og 21
 ## Tenglar
 
 Verkefni 1 repository  
-
+https://github.com/valurkristinn/HBV301G-v1
